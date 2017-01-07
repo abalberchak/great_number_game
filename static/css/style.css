@@ -1,0 +1,35 @@
+h1, h3 {
+	text-align: center;
+}
+
+.msg_box {
+	color: white;
+	margin-left: 41%;
+	padding-top: 50px;
+	text-align: center;
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+}
+
+.green {
+	background-color: green;
+}
+
+.red {
+	background-color: red;
+}
+
+form input {
+	margin-left: 43%;
+}
+form button {
+	margin-top: 10px;
+	margin-left: 47%;
+}
+
+#button {
+	color: #000000;
+	margin: auto;
+	text-align: center;
+}
